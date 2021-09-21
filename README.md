@@ -6,7 +6,8 @@ This is me following Brad Traversy's guest Techbase [youtube video](https://yout
 
 Year 2021
 
-## CLI
+## A note
+So this app takes literally forever to run and my pc freezes when it does. The same goes for tests. So I left off pretty musch right after a little further than Demo app setup at [11:06](https://youtu.be/OVNjsIto9xM). I'll try to continue after I get a better hardware
 
 ## Most common testing types
 
