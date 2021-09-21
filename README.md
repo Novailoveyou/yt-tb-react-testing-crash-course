@@ -8,6 +8,12 @@ Year 2021
 
 ## CLI
 
+## Most common testing types
+
+- Unit tests (testing small part of the code)
+- Integrations tests (testing combinations of unit tests)
+- End-to-end tests (testing from front to back)
+
 ## This is what was in here initially
 
 Thanks to team Cypress for this real world demo app ❤️
